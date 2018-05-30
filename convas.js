@@ -19,7 +19,7 @@
 
 
 
-/* var sec=6;
+var sec=6;
 var min=00;
 function refresh()
 {
@@ -41,7 +41,7 @@ function refresh()
             y.classList.remove('block_delete');            
 	}
 }
-refresh() */
+refresh() 
 
 
 
